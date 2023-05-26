@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Photo-Gallery/static/css/main.70aa209d.css",
+    "main.js": "/Photo-Gallery/static/js/main.b4b99cd6.js",
+    "static/js/787.2440c5ec.chunk.js": "/Photo-Gallery/static/js/787.2440c5ec.chunk.js",
+    "static/media/johannes-plenio-qkfxBc2NQ18-unsplash.jpg": "/Photo-Gallery/static/media/johannes-plenio-qkfxBc2NQ18-unsplash.083e352d4febe18d35a8.jpg",
+    "index.html": "/Photo-Gallery/index.html",
+    "main.70aa209d.css.map": "/Photo-Gallery/static/css/main.70aa209d.css.map",
+    "main.b4b99cd6.js.map": "/Photo-Gallery/static/js/main.b4b99cd6.js.map",
+    "787.2440c5ec.chunk.js.map": "/Photo-Gallery/static/js/787.2440c5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70aa209d.css",
+    "static/js/main.b4b99cd6.js"
+  ]
+}
